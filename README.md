@@ -1,4 +1,4 @@
-# A Simple Math Calculator
+# A Simple Math Calculator with GUI using C#
 
 This is a desktop calculator application built using C#. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division. 
 The application features a clear and user-friendly interface using Windows Forms App
